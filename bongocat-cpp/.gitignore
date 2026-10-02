@@ -1,0 +1,12 @@
+build/
+build-msvc/
+dist/
+build-*/
+.vs/
+*.user
+settings.ini
+.env
+.env.*
+assets/archive/
+releases/archive/
+releases/BongoCatDemo-Windows.zip

@@ -1,0 +1,10 @@
+elapsed_seconds=10.031
+single_core_cpu_percent=0.000
+working_set_MB=27.016
+private_MB=12.398
+peak_working_set_MB=27.016
+frames=2
+buffer_rebuilds=1
+raw_events=0
+gdi_start=18
+gdi_end=18
