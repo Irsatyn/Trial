@@ -1,2 +1,2 @@
-# trial
+# Trial
 Personal code lab.
